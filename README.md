@@ -4,27 +4,22 @@
   <tr>
     <th>Họ tên</th>
     <th>MSSV</th>
-    <th>Nhiệm vụ</th>
   </tr>
 <tr>
-  <td>Trần Ngọc Bảo (Trưởng nhóm)</td>
+  <td>Trần Ngọc Bảo</td>
   <td>20215529</td>
-  <td>Hardware</td>
 </tr>
 <tr>
   <td>Lý Văn Hiếu</td>
   <td>20204829</td>
-  <td>Front-end</td>
 </tr>
 <tr>
   <td>Hà Duy Long</td>
   <td>20204841</td>
-  <td>Back-end</td>
 </tr>
 <tr>
   <td>Nguyễn Cảnh Chi</td>
   <td>20172973</td>
-  <td>Report</td>
 </tr>
 </table>
 
@@ -56,7 +51,5 @@
 
 ## Báo cáo bài tập lớn
 <ul>
-  <li><a href="https://github.com/Tran-Ngoc-Bao/ProjectIOT/blob/main/ProjectReport/report.pdf">Báo cáo</a></li>
-  <li><a href="https://github.com/Tran-Ngoc-Bao/ProjectIOT/blob/main/ProjectReport/slide.pptx">Slide</a></li>
   <li><a href="https://husteduvn-my.sharepoint.com/:v:/g/personal/bao_tn215529_sis_hust_edu_vn/ERw_E8R_FOZPk8bD-UaxtYMBoLeBQpahqaw11ue7vcDCrA">VIDEO DEMO SẢN PHẨM</a></li>
 </ul>
